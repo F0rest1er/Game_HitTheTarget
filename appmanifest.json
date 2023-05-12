@@ -1,0 +1,41 @@
+{
+	"name": "Hit the target",
+	"short_name": "Hit the target",
+	"description": "",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "portrait",
+	"background_color": "#ffffff",
+	"icons": [
+		{
+			"src": "icons/иконка-16.png",
+			"sizes": "18x18",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/иконка-32.png",
+			"sizes": "34x34",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/иконка-64.png",
+			"sizes": "66x66",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/иконка-128.png",
+			"sizes": "130x130",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/иконка-256.png",
+			"sizes": "258x258",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/иконка-512.png",
+			"sizes": "514x514",
+			"type": "image/png"
+		}
+	]
+}
